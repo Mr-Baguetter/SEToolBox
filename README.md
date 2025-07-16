@@ -1,4 +1,5 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Mr-Baguetter/SEToolBox/total?style=for-the-badge) <br>
+---
 # SEToolBox
 A comprehensive C# toolbox for Space Engineers players and engineers, providing essential utilities for navigation, ship design, and engineering calculations.
 
