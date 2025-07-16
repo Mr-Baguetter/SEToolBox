@@ -12,7 +12,6 @@ A comprehensive C# toolbox for Space Engineers players and engineers, providing 
 
 ### Thrust Calculator
 - **Thrust-to-Weight Ratio**: Calculate optimal thrust requirements for different gravity environments
-- **Multi-directional Analysis**: Analyze thrust capabilities in all 6 directions (forward, backward, left, right, up, down)
 - **Acceleration Calculations**: Determine maximum acceleration potential for your designs
 - **Ship Mass Integration**: Factor in ship mass, cargo, and fuel for accurate calculations
 
