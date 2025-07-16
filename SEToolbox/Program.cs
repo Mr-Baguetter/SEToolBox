@@ -8,7 +8,7 @@ namespace SEToolBox
         private TabControl mainTabControl;
         private GPSTriangulatorTab gpsTab;
         private HelpTab helpTab;
-        internal static Version version = new(0, 0, 2);
+        internal static Version version = new(0, 0, 4);
 
         public MainForm()
         {

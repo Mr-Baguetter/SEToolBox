@@ -53,6 +53,12 @@ namespace SEToolBox.Tabs
                 "• Minor bug fixes."
             });
 
+
+            AddChangeLogEntry("v0.0.4", "2025-7-15", new string[]
+            {
+                "• Added Auto Updater",
+            });
+
             changeLogTextBox.SelectionStart = 0;
             changeLogTextBox.ScrollToCaret();
         }
